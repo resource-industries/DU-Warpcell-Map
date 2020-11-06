@@ -8,3 +8,4 @@
                    - Increased font size of text buttons and repositioned
                    - Adjusted layering of some elements for readability
                Tested on M, S, and L Transparent Screens
+               Uploaded du-warpcell-map.jpg so you can see what it's supposed to look like when running correctly.
